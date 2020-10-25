@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# Gaspar Novel Porcel 
 
-You can use the [editor on GitHub](https://github.com/gasparnovel/gasparnovel.github.io-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+##  ¿Por que elegi estudiar informatica?
+Desde pequeño siempre habia sido el manitas de la familia con la tecnologia por eso cuando ya fui consciente de oye , te tienes que dedicar a algo en la vida, tenia claro que queria que fuera algo relacionado con la informatica. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Investigue y descubri el grado medio y lo complete y ahora a seguir por el camino que tanto me fascina.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gasparnovel/gasparnovel.github.io-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ ![Git](https://www.enriquedans.com/wp-content/uploads/2018/06/GitHub-Octocat.jpg) 
